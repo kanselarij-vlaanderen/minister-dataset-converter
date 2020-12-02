@@ -1,0 +1,191 @@
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/5fc771e383f5c63534b7c6e4> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e4";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Minister-president" .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/5fc771e383f5c63534b7c6e5> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e5";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Viceminister-president" .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/5fc771e383f5c63534b7c6e6> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e6";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Minister" .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/5fc771e383f5c63534b7c6e7> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e7";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Volksvertegenwoordiger" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6ea> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuurseenheid/5fc771e383f5c63534b7c6e8>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ea";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://themis.vlaanderen.be/id/concept/bestuursorgaan-classificatie/14b3f492-7106-46c7-9704-f547beff18ca>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams Parlement" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6ed> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6eb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ed" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6f0> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6ee>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f0" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6f3> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f1>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f3" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6f4> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f1>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f4" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6f7> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f5>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f7" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6fa> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f8>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6fa" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6fd> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6fd" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6fe> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6fe" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c6ff> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ff" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c700> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c700" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c703> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c701>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c703" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c704> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c701>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c704" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c707> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c705>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c707" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c70a> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c708>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c70a" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c70b> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c708>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c70b" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaaninperiode/5fc771e383f5c63534b7c70e> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c70c>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c70e" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6ec> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1981-11-08"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6eb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ec" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6ef> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1985-10-13"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6ee>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ef" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6f2> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1987-12-13"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f1>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f2" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6f6> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1991-11-24"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f5>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f6" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6f9> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1995-05-21"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f8>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f9" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c6fc> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "1999-06-13"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6fc" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c702> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "2004-06-13"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c701>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c702" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c706> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "2009-06-07"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c705>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c706" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c709> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "2014-05-25"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c708>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c709" .
+
+<http://themis.vlaanderen.be/id/rechtstreekseverkiezing/5fc771e383f5c63534b7c70d> a <http://data.vlaanderen.be/ns/mandaat#RechtstreekseVerkiezing>;
+  <http://data.vlaanderen.be/ns/mandaat#datum> "2019-05-26"^^<http://www.w3.org/2001/XMLSchema#date>;
+  <http://data.vlaanderen.be/ns/mandaat#steltSamen> <http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c70c>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c70d" .
+
+<http://themis.vlaanderen.be/id/bestuurseenheid/5fc771e383f5c63534b7c6e8> a <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e8";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://themis.vlaanderen.be/id/concept/bestuurseenheid-classificatie/ba6abed5-a5b7-482b-9c19-18d51a4a6e6f>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaams Gewest" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6eb> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6eb" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6ee> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6ee" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f5> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f5" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f8> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f8" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c705> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c705" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c70c> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c70c" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6f1> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6f1" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c701> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c701" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c708> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c708" .
+
+<http://themis.vlaanderen.be/id/legislatuur/5fc771e383f5c63534b7c6fb> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6fb" .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/5fc771e383f5c63534b7c6e9> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuurseenheid/5fc771e383f5c63534b7c6e8>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "5fc771e383f5c63534b7c6e9";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://themis.vlaanderen.be/id/concept/bestuursorgaan-classificatie/9682bad6-9c85-4eeb-9ac1-bba21666469a>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Regering" .
