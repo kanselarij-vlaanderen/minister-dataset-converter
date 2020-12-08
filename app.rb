@@ -9,11 +9,15 @@ require 'date'
 # RDF Utils
 ###
 ORG = RDF::Vocab::ORG
+FOAF = RDF::Vocab::FOAF
 SKOS = RDF::Vocab::SKOS
+PROV = RDF::Vocab::PROV
 MU = RDF::Vocabulary.new("http://mu.semte.ch/vocabularies/core/")
-BESLUIT = RDF::Vocabulary.new("http://data.vlaanderen.be/ns/besluit#")
-MANDAAT = RDF::Vocabulary.new("http://data.vlaanderen.be/ns/mandaat#")
-GENERIEK = RDF::Vocabulary.new("http://data.vlaanderen.be/ns/generiek#")
+BESLUIT = RDF::Vocabulary.new("https://data.vlaanderen.be/ns/besluit#")
+MANDAAT = RDF::Vocabulary.new("https://data.vlaanderen.be/ns/mandaat#")
+GENERIEK = RDF::Vocabulary.new("https://data.vlaanderen.be/ns/generiek#")
+PERSON = RDF::Vocabulary.new("http://www.w3.org/ns/person#")
+PERSOON = RDF::Vocabulary.new("https://data.vlaanderen.be/ns/persoon#")
 
 BASE_URI = "http://themis.vlaanderen.be/id/%{resource}/%{id}"
 
@@ -88,36 +92,7 @@ public_graph << RDF.Statement(bestuursfunctie_volksvertegenwoordiger, SKOS.prefL
 public_graph << RDF.Statement(bestuursfunctie_volksvertegenwoordiger, SKOS.inScheme, bestuursfuncties_concept_scheme)
 puts " done"
 
-
-print "[ONGOING] Generating bestuursorganen..."
-
-uuid = BSON::ObjectId.new.to_s
-bestuurseenheid_vlaams_gewest = RDF::URI(BASE_URI % { resource: "bestuurseenheid", id: uuid })
-public_graph << RDF.Statement(bestuurseenheid_vlaams_gewest, RDF.type, BESLUIT.Bestuurseenheid)
-public_graph << RDF.Statement(bestuurseenheid_vlaams_gewest, MU.uuid, uuid)
-public_graph << RDF.Statement(bestuurseenheid_vlaams_gewest, SKOS.prefLabel, "Vlaams Gewest")
-public_graph << RDF.Statement(bestuurseenheid_vlaams_gewest, SKOS.inScheme, 
-  RDF::URI("http://themis.vlaanderen.be/id/concept/bestuurseenheid-classificatie/ba6abed5-a5b7-482b-9c19-18d51a4a6e6f"))
-
-uuid = BSON::ObjectId.new.to_s
-bestuursorgaan_vlaamse_regering = RDF::URI(BASE_URI % { resource: "bestuursorgaan", id: uuid })
-public_graph << RDF.Statement(bestuursorgaan_vlaamse_regering, RDF.type, BESLUIT.Bestuursorgaan)
-public_graph << RDF.Statement(bestuursorgaan_vlaamse_regering, MU.uuid, uuid)
-public_graph << RDF.Statement(bestuursorgaan_vlaamse_regering, SKOS.prefLabel, "Vlaamse Regering")
-public_graph << RDF.Statement(bestuursorgaan_vlaamse_regering, SKOS.inScheme, 
-  RDF::URI("http://themis.vlaanderen.be/id/concept/bestuursorgaan-classificatie/9682bad6-9c85-4eeb-9ac1-bba21666469a"))
-public_graph << RDF.Statement(bestuursorgaan_vlaamse_regering, BESLUIT.bestuurt, bestuurseenheid_vlaams_gewest)
-
-uuid = BSON::ObjectId.new.to_s
-bestuursorgaan_vlaams_parlement = RDF::URI(BASE_URI % { resource: "bestuursorgaan", id: uuid })
-public_graph << RDF.Statement(bestuursorgaan_vlaams_parlement, RDF.type, BESLUIT.Bestuursorgaan)
-public_graph << RDF.Statement(bestuursorgaan_vlaams_parlement, MU.uuid, uuid)
-public_graph << RDF.Statement(bestuursorgaan_vlaams_parlement, SKOS.prefLabel, "Vlaams Parlement")
-public_graph << RDF.Statement(bestuursorgaan_vlaams_parlement, SKOS.inScheme, 
-  RDF::URI("http://themis.vlaanderen.be/id/concept/bestuursorgaan-classificatie/14b3f492-7106-46c7-9704-f547beff18ca"))
-public_graph << RDF.Statement(bestuursorgaan_vlaams_parlement, BESLUIT.bestuurt, bestuurseenheid_vlaams_gewest)
-
-puts " done"
+bestuursorgaan_vlaamse_regering = RDF::URI("http://themis.vlaanderen.be/id/bestuursorgaan/7f2c82aa-75ac-40f8-a6c3-9fe539163025")
 
 file_path = File.join(config.input_file_path)
 
@@ -126,37 +101,178 @@ if not File.file?(file_path)
   return
 end
 
-$name = ''
+name = ''
+personen_uri_map = {}
+beleidsdomeinen_uri_map = {}
+uuid = BSON::ObjectId.new.to_s
+beleidsdomein_concept_scheme = RDF::URI(BASE_URI % { resource: "concept-scheme", id: uuid })
+public_graph << RDF.Statement(beleidsdomein_concept_scheme, RDF.type, SKOS.ConceptScheme)
+public_graph << RDF.Statement(beleidsdomein_concept_scheme, MU.uuid, uuid)
+public_graph << RDF.Statement(beleidsdomein_concept_scheme, SKOS.prefLabel, "Beleidsdomeinen concept scheme")
+
+startLegislatuur = nil
+endLegislatuur = nil
 CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
+  firstRegeringOfLegislatuur = true
   if row["Reg of man"] == 'periode'
+    if ($legislatuur)
+      print "[ONGOING] Setting period for previous legislatuur #{startLegislatuur} - #{endLegislatuur}..."
+      public_graph << RDF.Statement($legislatuur, SKOS.prefLabel, "Vlaamse Regering #{startLegislatuur} - #{endLegislatuur}")
+      puts " done"
+    end
+
     print "[ONGOING] Generating legislatuur..."
     uuid = BSON::ObjectId.new.to_s
-    $legislatuur = RDF::URI(BASE_URI % { resource: "legislatuur", id: uuid })
+    $legislatuur = RDF::URI(BASE_URI % { resource: "bestuursorgaan", id: uuid })
     public_graph << RDF.Statement($legislatuur, RDF.type, BESLUIT.Bestuursorgaan)
     public_graph << RDF.Statement($legislatuur, MU.uuid, uuid)
-    public_graph << RDF.Statement($legislatuur, BESLUIT.bestuurt, bestuursorgaan_vlaamse_regering)
+    public_graph << RDF.Statement($legislatuur, GENERIEK.isTijdspecialisatieVan, bestuursorgaan_vlaamse_regering)
     puts " done"
 
     print "[ONGOING] Generating rechtstreekse verkiezing "
     print Date.strptime(row["Verkiezing"], "%m/%d/%Y").to_s + " ..."
     uuid = BSON::ObjectId.new.to_s
-    rechtstreekse_verkiezing = RDF::URI(BASE_URI % { resource: "rechtstreekseverkiezing", id: uuid })
+    # TODO change rechtstreekse-verkiezing to bestuursorgaan
+    rechtstreekse_verkiezing = RDF::URI(BASE_URI % { resource: "rechtstreekse-verkiezing", id: uuid })
     public_graph << RDF.Statement(rechtstreekse_verkiezing, RDF.type, MANDAAT.RechtstreekseVerkiezing)
     public_graph << RDF.Statement(rechtstreekse_verkiezing, MU.uuid, uuid)
     public_graph << RDF.Statement(rechtstreekse_verkiezing, MANDAAT.datum, Date.strptime(row["Verkiezing"], "%m/%d/%Y"))
     public_graph << RDF.Statement(rechtstreekse_verkiezing, MANDAAT.steltSamen, $legislatuur)
     puts " done"
+
+    print "[ONGOING] Generating legislatuur mandaat Minister-President..."
+    uuid = BSON::ObjectId.new.to_s
+    mandaat_minister_president = RDF::URI(BASE_URI % { resource: "mandaat", id: uuid })
+    public_graph << RDF.Statement(mandaat_minister_president, RDF.type, MANDAAT.MANDAAT)
+    public_graph << RDF.Statement(mandaat_minister_president, MU.uuid, uuid)
+    public_graph << RDF.Statement(mandaat_minister_president, ORG.role, bestuursfunctie_minister_president)
+    puts " done"
+
+    print "[ONGOING] Generating legislatuur mandaat Viceminister-President..."
+    uuid = BSON::ObjectId.new.to_s
+    mandaat_viceminister_president = RDF::URI(BASE_URI % { resource: "mandaat", id: uuid })
+    public_graph << RDF.Statement(mandaat_viceminister_president, RDF.type, MANDAAT.MANDAAT)
+    public_graph << RDF.Statement(mandaat_viceminister_president, MU.uuid, uuid)
+    public_graph << RDF.Statement(mandaat_viceminister_president, ORG.role, bestuursfunctie_viceminister_president)
+    puts " done"
+
+    print "[ONGOING] Generating legislatuur mandaat Vlaamse minister..."
+    uuid = BSON::ObjectId.new.to_s
+    mandaat_minister = RDF::URI(BASE_URI % { resource: "mandaat", id: uuid })
+    public_graph << RDF.Statement(mandaat_minister, RDF.type, MANDAAT.MANDAAT)
+    public_graph << RDF.Statement(mandaat_minister, MU.uuid, uuid)
+    public_graph << RDF.Statement(mandaat_minister, ORG.role, bestuursfunctie_minister)
+    puts " done"
   end
 
-  if (row["Reg of man"] == 'regering' && row["Naam"] != $name) 
-    $name = row["Naam"]
-    print "[ONGOING] Generating regering " + $name
+
+  if (row["Reg of man"] == 'regering') 
+    $startRegering = DateTime.strptime(row["SamenstellingVan"], "%m/%d/%Y")
+    $endRegering = DateTime.strptime(row["SamenstellingTot"], "%m/%d/%Y") if (row["SamenstellingTot"])
+
+    if (row["Naam"] != name)
+      name = row["Naam"]
+      print "[ONGOING] Generating regering #{name} #{$startRegering}"
+
+      if (firstRegeringOfLegislatuur)
+        startLegislatuur = $startRegering.strftime("%d/%m/%Y")
+        firstRegeringOfLegislatuur = false
+      end
+      
+      uuid = BSON::ObjectId.new.to_s
+      creatie = RDF::URI(BASE_URI % { resource: "creatie", id: uuid })
+      public_graph << RDF.Statement(creatie, MU.uuid, uuid)
+      public_graph << RDF.Statement(creatie, RDF.type, PROV.Generation)
+      public_graph << RDF.Statement(creatie, PROV.atTime, $startRegering)
+      
+      if (row["SamenstellingTot"])
+        $endRegering = DateTime.strptime(row["SamenstellingTot"], "%m/%d/%Y")
+        endLegislatuur = $endRegering.strftime("%d/%m/%Y")
+
+        uuid = BSON::ObjectId.new.to_s
+        opheffing = RDF::URI(BASE_URI % { resource: "opheffing", id: uuid })
+        public_graph << RDF.Statement(opheffing, MU.uuid, uuid)
+        public_graph << RDF.Statement(opheffing, RDF.type, PROV.Invalidation)
+        public_graph << RDF.Statement(opheffing, PROV.atTime, $endRegering)
+      end
+
+      uuid = BSON::ObjectId.new.to_s
+      bestuursorgaan_in_periode = RDF::URI(BASE_URI % { resource: "bestuursorgaan", id: uuid })
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, MU.uuid, uuid)
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, RDF.type, BESLUIT.Bestuursorgaan)
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, SKOS.prefLabel, name)
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.qualifiedGeneration, creatie)
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.qualifiedInvalidation, opheffing) if opheffing
+      public_graph << RDF.Statement(bestuursorgaan_in_periode, GENERIEK.isTijdspecialisatieVan, $legislatuur)
+      puts " done"
+    end
+  end
+
+  if (row["Reg of man"] == 'mandaat')
+    persoonId = row["AchternaamMandaathouder"] + " " + row["VoornaamMandaathouder"]
+    unless personen_uri_map[persoonId]
+      print "[ONGOING] Generating persoon #{persoonId}"
+      uuid = BSON::ObjectId.new.to_s
+      persoon = RDF::URI(BASE_URI % { resource: "persoon", id: uuid })
+      public_graph << RDF.Statement(persoon, MU.uuid, uuid)
+      public_graph << RDF.Statement(persoon, RDF.type, PERSON.PERSON)
+      public_graph << RDF.Statement(persoon, FOAF.familyName, row["AchternaamMandaathouder"])
+      public_graph << RDF.Statement(persoon, PERSOON.gebruikteVoornaam, row["VoornaamMandaathouder"] )
+      personen_uri_map[persoonId] = persoon
+      puts " done"
+    end
+
+    print "[ONGOING] Generating Mandataris #{persoonId} ..."
     uuid = BSON::ObjectId.new.to_s
-    bestuursorgaan_in_periode = RDF::URI(BASE_URI % { resource: "bestuursorgaaninperiode", id: uuid })
-    public_graph << RDF.Statement(bestuursorgaan_in_periode, MU.uuid, uuid)
-    public_graph << RDF.Statement(bestuursorgaan_in_periode, RDF.type, BESLUIT.Bestuursorgaan)
-    public_graph << RDF.Statement(bestuursorgaan_in_periode, GENERIEK.isTijdspecialisatieVan, $legislatuur)
+    mandataris = RDF::URI(BASE_URI % { resource: "mandataris", id: uuid })
+    public_graph << RDF.Statement(mandataris, RDF.type, MANDAAT.Mandataris)
+    public_graph << RDF.Statement(mandataris, MU.uuid, uuid)
+    public_graph << RDF.Statement(mandataris, ORG.holds, bestuursfunctie_minister)
+    public_graph << RDF.Statement(mandataris, MANDAAT.rangorde, row["rang"])
+    public_graph << RDF.Statement(mandataris, MANDAAT.start, $startRegering)
+    public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering)
+    public_graph << RDF.Statement(mandataris, MANDAAT.isBestuurlijkeAliasVan, personen_uri_map[persoonId])
+
+    public_graph << RDF.Statement(bestuursorgaan_in_periode, ORG.hasPost, mandataris)
     puts " done"
+
+    fullTitle = row["Titel"] 
+    unless fullTitle.nil?
+      puts "Generating titles " + fullTitle
+      titleList = fullTitle.match /(?<= van )(?<titles>.*)/
+      titles = titleList[:titles].split(/\s*[,]\s* | \s*en\s*/)
+      puts titles
+
+      titles.each do |title|
+        unless beleidsdomeinen_uri_map[title]
+          print "[ONGOING] Generating beleidsdomein #{title}"
+          uuid = BSON::ObjectId.new.to_s
+          beleidsdomein = RDF::URI(BASE_URI % { resource: "beleidsdomein", id: uuid })
+          public_graph << RDF.Statement(beleidsdomein, RDF.type, SKOS.Concept)
+          public_graph << RDF.Statement(beleidsdomein, MU.uuid, uuid)
+          public_graph << RDF.Statement(beleidsdomein, SKOS.prefLabel, title)
+          public_graph << RDF.Statement(beleidsdomein, SKOS.inScheme, beleidsdomein_concept_scheme)
+          beleidsdomeinen_uri_map[title] = beleidsdomein
+          puts " done"
+        end
+
+        print "[ONGOING] Adding title #{title} for mandataris #{persoonId} ..."
+        public_graph << RDF.Statement(mandataris, MANDAAT.beleidsdomein, beleidsdomeinen_uri_map[title])
+        puts " done"
+      end
+    end
+
+    unless row["MP/Vice"].nil?
+      if (row["MP/Vice"].downcase.include? "vice")
+        print "[ONGOING] Adding functie viceminister for mandataris #{persoonId} ..."
+        public_graph << RDF.Statement(mandataris, ORG.holds, bestuursfunctie_viceminister_president)
+        puts " done"
+      else 
+        print "[ONGOING] Adding functie minister-president for mandataris #{persoonId} ..."
+        public_graph << RDF.Statement(mandataris, ORG.holds, bestuursfunctie_minister_president)
+        puts " done"
+      end
+    end
   end
 end  
 
