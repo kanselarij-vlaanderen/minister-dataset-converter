@@ -231,14 +231,6 @@ CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
       if (row["SamenstellingTot"])
         $endRegering = DateTime.strptime(row["SamenstellingTot"], "%m/%d/%Y")
         endLegislatuur = $endRegering
-
-        uuid = BSON::ObjectId.new.to_s
-        opheffing = RDF::URI(BASE_URI % { resource: "opheffing", id: uuid })
-        public_graph << RDF.Statement(opheffing, MU.uuid, uuid)
-        public_graph << RDF.Statement(opheffing, RDF.type, PROV.Invalidation)
-        public_graph << RDF.Statement(opheffing, PROV.atTime, $endRegering)
-        
-        public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.qualifiedInvalidation, opheffing)
       end
 
       puts " done"
