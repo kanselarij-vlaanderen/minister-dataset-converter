@@ -114,7 +114,7 @@ CSV.foreach(personen_input_file, headers: true, encoding: "utf-8").with_index(1)
       log.info "OK"
       themisUri = personResult.first.personUri.value
       public_graph << RDF.Statement(RDF::URI(themisUri), OWL.sameAs, RDF::URI(personUri))
-      personUriMap[:personUri] = themisUri
+      personUriMap[personUri] = themisUri
     else 
       log.info "NOT OK"
       personsNotFound << "#{index} /#{firstName}/#{familyName}/(#{fullName})/#{personUri}"
@@ -153,9 +153,10 @@ CSV.foreach(mandaten_input_file, headers: true, encoding: "utf-8") do |row|
   personUri = row["persoon"]
   themisPersonUri = personUriMap[personUri]
 
-  public_graph << RDF.Statement(RDF::URI(themisPersonUri), DCT.relation, RDF::URI(mandatarisUri))
-  public_graph << RDF.Statement(RDF::URI(mandatarisUri), RDF.type, MANDAAT.Mandaat)
-
+  if (themisPersonUri)
+    public_graph << RDF.Statement(RDF::URI(themisPersonUri), DCT.relation, RDF::URI(mandatarisUri))
+    public_graph << RDF.Statement(RDF::URI(mandatarisUri), RDF.type, MANDAAT.Mandaat)
+  end 
 end
 
 

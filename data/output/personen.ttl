@@ -1,0 +1,2067 @@
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1502> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/820f538e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821868ca-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821dd918-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214a406-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ed5b2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821955d2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82126132-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82110a12-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820edfbc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215e492-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821b6912-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82125c82-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821dfd08-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/821dd634-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820ed3f0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820ede04-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1507> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821c26fe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218c874-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821876e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a7250-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82197ee0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c4e54-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8218748c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/821a6f8a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f150b> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821c2fa0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c87fc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d2220-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82186d98-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c355e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8219226a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d2900-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821cb0b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821dea84-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d8d32-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/82186b36-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f150f> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821da9d4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821befc2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82160bb6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c3afe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c6d44-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d718a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821ca6b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215e0be-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821885e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a944c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82163474-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c674a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8215de52-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1513> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82188f1c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c18c6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821aa784-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821b625a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821cd45a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d3508-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821bbc64-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/821bb976-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/82188cba-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1516> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821c11a0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a78d6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821664f8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821cb70e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c732a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a8786-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821af338-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82199416-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82199a06-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a016c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82187bbc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821af964-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821bce3e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82175bec-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/821a75ca-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/821662a0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8219974a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f151b> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/8218946c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c79b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821ad7b8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a9b5e-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8218920a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/821ad4d4-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f151e> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82143d9a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f2a9e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82120548-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82188152-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821dc1bc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218f902-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8219b09a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821cc460-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213b532-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c5ad4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/82143b9c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820f2896-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1521> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821b0d96-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218cedc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821aa1ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82181fa0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a8042-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f1072-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c214a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821cbde4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8219ddea-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821846d8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214c0da-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218b4b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c7ffa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215dc40-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8219d6ba-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821a8dee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8216027e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82155e8c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82115e2c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213ba64-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8216aa08-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821485de-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82171150-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c471a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f033e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218bdc0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821c4166-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821424f4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821ac728-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8211dc1c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210b3fa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821df31c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82159d0c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821889e0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215d33a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8219db2e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820f017c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820f0eba-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f153e> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/820f59f6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215f626-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ef65a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215fe82-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213a1aa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82151710-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821629b6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210c28c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f4f4c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214a8ac-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82185394-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821347f0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f0aaa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8217fdfe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821318c0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215a892-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82128c66-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/820f08fc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820ef4a2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/821316ae-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1546> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821c54ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82165846-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8217ea58-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215ee10-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8217021e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82194bfa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821d7e00-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821960ae-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8215ebd6-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f1548> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/8215410e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ce8b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8212758c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82161192-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbef10-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82103394-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc888a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8211120a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213372e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ee62e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215836c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820754a4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214c468-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82061b20-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820e0af6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210bbac-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82111a20-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214c800-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821401a4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f3336-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8217aa66-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82163f78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8212d7f2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82153c72-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8202ab5c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215fa68-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d7384-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cf26a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8206822c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215be90-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82115918-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82152020-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820657e8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82138e54-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82132edc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82141054-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82060c48-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8207c29a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210ab62-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82061292-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fc8736-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/82132cf2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fbedc6-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f154b> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82161ce6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82161610-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/821613e0-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc3765a8c33389f154e> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f90b9c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fa1280-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8216b1d8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f8976-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f7054a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f12e68-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820eece6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821620d8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f2e04-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82119982-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215f1bc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8218180c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214b554-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f75aa4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214d08e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82157138-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f7595a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f12d5a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f155a> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/821606b6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82157d18-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215e8ac-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215974e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215b1ca-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214efc4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8214ed9e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1574> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82061620-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821558c4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82134d40-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f152c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213c72a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214bd06-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213fa60-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d1b6e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8203413e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205f7e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82127a28-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ec1ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82137d4c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215886c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82153010-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82106b84-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cf5ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82128180-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215a1a8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210a496-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ed8d2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8211f026-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8205f672-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/82033fb8-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1577> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82157872-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8215b8fa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82150b9e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214db1a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214ace4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8214aadc-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1579> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/8215cc5a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214b98c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82158ca4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8214b77a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f157f> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82147d5a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82142dfa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210d664-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82145956-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82109730-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ef10a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821213e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205fa82-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820604dc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213afc4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cef04-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f6360-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820edbf2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8202a7ce-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821373b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205fe2e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213ea20-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f6e78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8211fe2c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82144790-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ce554-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82143778-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8213719e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8202a62a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8205fcbc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8214457e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f158a> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/820f8e6c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210860a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f1946-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820eff56-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8211be26-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8212ae12-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/820efd9e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820f1784-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f158c> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/820c9f9a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cd5a0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210cb88-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82121d9e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821294d6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f6a0e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d287a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8212b326-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ffbdca-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d3662-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82060f04-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f816a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8206011c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82102322-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210affe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81febd12-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82138846-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82057242-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8210fdec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205ab72-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fef250-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820774a2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820815f6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ffa952-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213a9f2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82128676-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820eae20-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82068d76-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8214186a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ee962-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8213e05c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82112ad8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82113410-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ef9e8-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/820d34b4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ffa7ea-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81febbbe-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f158e> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82079a36-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82124792-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f7e6c2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fa1870-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81cd5b0a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820626ba-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82117448-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cdbc2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d0610-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820f0668-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820dcb36-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82118f3c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82122988-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82127104-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ee2c8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f7a6a8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820623c2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82038f2c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8212d0cc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82081c18-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81cd593e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f7e578-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f15b8> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/8205f23a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205ea4c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fcef0a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbdf20-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d253c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbe48e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cdf46-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8209b564-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820e5d26-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820678cc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ea308-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205a654-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82064532-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cec16-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fe28e8-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/820e5b6e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820d238e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fceda2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fbddb8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/82067746-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f15c3> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/820cfd32-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cbd18-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8207e9dc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820dbce0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8203a5de-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8207ee46-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ec928-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ce252-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82079022-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/820cbb60-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8207e7fc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8203a46c-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f15c5> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82047ae0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8206b4fe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820c79c0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ecd1a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d4b0c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82063538-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820d3a18-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cd8a2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82064ac8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820e9548-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82062d0e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82060982-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820e0e98-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8202c506-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820ea010-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbf410-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205dbec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82065c0c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820e6d02-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820671ec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8206ae50-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820cc0e2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820629e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205af8c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82054da8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc91fe-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82063ee8-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fc90aa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/8205da48-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/82047964-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fbf2d0-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f15f3> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81fbfaaa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fe3284-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ec75ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82063006-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82053d90-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8206dfb0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205efa6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82061e68-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4c420-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1f9d4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4a6ca-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82047f22-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1fccc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8205305c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82048bf2-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8206de16-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e1f8ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fbf960-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1614> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/8205074e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbe1e6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fcfc2a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ffb0aa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81feb7e0-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fbe0b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fcfacc-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1616> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82050cc6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc093c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82055bae-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82056b1c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/821b3fc8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc18aa-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fc1760-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fc07e8-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1618> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81fdb1d8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbe7ea-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/820579e0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/82055f6e-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fdb070-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fbe6b4-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f161c> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/82050226-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/8200a3d4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/8200a258-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/820500aa-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1629> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81fe2e88-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc4cf8-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81fe2d3e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81fc4b40-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1638> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f1fd5c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f1e1aa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fc1c6a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fcafae-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fbebd2-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f1fc26-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f1e056-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1651> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f13444-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f41ed4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f57270-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f5711c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f13318-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1655> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81e50098-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1c87e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4d9a6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f57d38-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f5dc56-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddbf18-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f4229e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e0ad5e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f68174-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fa9d7c-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e1c7a2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ddbe50-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1658> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f21580-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecca62-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ef604c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f13e62-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ef5f2a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ecc95e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f165a> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ecea2e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecc3c8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81fa0bc8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f136ce-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ecc2b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ece92a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f165d> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f14560-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f14254-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f14448-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f140ec-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1661> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81e08a90-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f1f082-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5625e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f6c2c4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f147b8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddb306-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecdfac-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4cccc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e43348-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f0fb78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f6bee6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ed93ac-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ddb23e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e43244-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1683> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81eced1c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f410ec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f1befa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f6cb16-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecc698-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f17454-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f14e48-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f6c67a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f57914-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ecec18-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ecc59e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1691> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f41b64-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f211a2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f13980-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f575c2-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f21062-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81f13868-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f169f> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f1dcfa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f15780-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81f1565e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16af> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f15302-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ed7318-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f1ad5c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecd2e6-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ed71f6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ecd1c4-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16be> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ef30b8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81f12ae4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ee945a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ef2f8c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ee9342-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16c0> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81f1286e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecdcaa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ee6002-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ee5ecc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ecdb9c-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16d0> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ecd048-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C256B1B81000800016B>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ece772-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81eccf44-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ece65a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16db> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dd2738-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddc652-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e58e78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e23b60-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecd4e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ef39aa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ef5066-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81dd2666-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e23a70-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16de> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ef368a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4dd66-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddb52c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddfb90-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ec788c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81df2eb6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e310e4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81eea440-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e6133e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e20212-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecccd8-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e200fa-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ddb450-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f16ec> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ee7e66-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ecd854-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ecd750-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ee7d4e-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1704> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ec6ff4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4b5f2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4d1a4-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ec6dec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e4b502-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f170a> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81e3c82c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4e1ee-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e68c74-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e3c728-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e68b5c-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f170d> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81de5630-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e35554-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4b840-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddbc7a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de0194-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e559a8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1c36a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e1c284-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81ddbbbc-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1711> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81def572-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5958a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4bc46-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e59486-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81def414-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1716> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81c3a72c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd5a6e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e05700-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/mandaat/9cd9a969-0e8c-4f07-bacd-bd0c0b4cfc9c>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5ef26-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f377a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e0b75e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ae6b0a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1e4c6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd79c2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4c178-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://example.com/person/de843e19-de4a-4b0d-af5f-d5563709d23c>,
+    <http://kanselarij.vo.data.gift/id/personen/81e1e3d6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/819f36e4-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc4765a8c33389f1719> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dce19c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ded0a6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3a0e2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddee98-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dcda94-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4c60a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de4f78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e05fde-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd132e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5a3a4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddb72a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3e9f8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd580c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5b240-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de19d6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddb8ec-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de068a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81c39f20-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1720> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81e5f3ae-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81df2948-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddc1fc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1edb8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4c8d0-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ddc134-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e1ecd2-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1731> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dea91e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e02e10-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e4be76-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e0184e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1e7e6-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81dea82e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/personen/81e1e70a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1733> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dd1b4e-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/mandaat/6eb5292d-37a1-454f-b87e-3bbfacb23970>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819eb43a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddc3e6-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6BF16B1B810008000169>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de9726-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f3a36-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3a8a8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e5ad04-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81e1b794-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81de51da-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81e1b67c-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/person/c2a7e1d0-40ba-47bf-b6be-0e4ab3725161>,
+    <http://kanselarij.vo.data.gift/id/personen/819eb368-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1765> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81ddc90e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddd908-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81ddc846-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1773> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dd5154-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3a5b0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81ddac8a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81c3a510-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1778> <http://purl.org/dc/terms/relation> <http://example.com/mandaat/9a70b95c-a1ba-40db-907c-c5395dfac60f>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd5d2a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd8318-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3b8fc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f4634-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819ebd0e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd04e2-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://example.com/person/ecb86a73-c11c-4228-bf36-976d83ed5c0d>,
+    <http://kanselarij.vo.data.gift/id/personen/819ebc82-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f177b> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dd2332-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd556e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd803e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3cf54-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd3cd2-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81c3cea0-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f177e> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81a32fe2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3aa24-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dcd4cc-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd61c6-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81a32e66-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1780> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81dd5fb4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd6cde-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dcd814-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3bbcc-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81c3bb2c-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1797> <http://purl.org/dc/terms/relation> <http://example.com/mandaat/dc811a22-ccab-4dba-b305-fa1ca2981a0c>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd3ed0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819eb674-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f3b9e-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81c3aba0-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/81dd5366-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://example.com/person/70d5ccab-0b57-4495-892d-3ca12029aff1>,
+    <http://kanselarij.vo.data.gift/id/personen/819eb5ca-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17a8> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81b92df6-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81b92c2a-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17ab> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3D8EB158960008000011>,
+    <http://example.com/mandaat/d3b0f8f7-9806-45a9-9d04-c9676049ff0b>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819eba5c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819ebee4-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f3e0a-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9865CDB158960008000002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9865BBB158960008000001>,
+    <http://kanselarij.vo.data.gift/id/personen/819eb9c6-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/person/e880971e-1fd8-41a0-9cdc-d195d18fe581> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17af> <http://purl.org/dc/terms/relation> <http://example.com/mandaat/4be7d895-e5f1-4027-9032-c53e41f48d69>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f7da2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819efb0c-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3E1BB158960008000013>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f30b8-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C3F6B1B81000800016C>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://example.com/person/8ac8eb8e-9916-44dd-9349-a976faf74766>,
+    <http://kanselarij.vo.data.gift/id/personen/819efa76-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17b6> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/819eff44-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f24d8-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/mandaat/24733906-ca93-4eeb-9e1f-18b3592500dd>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f75d2-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3E45B158960008000014>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://example.com/person/9deaa1db-9cb8-4125-97e6-b4641fba803f>,
+    <http://kanselarij.vo.data.gift/id/personen/819efec2-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17c8> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/81a42b9a-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/81a42adc-dec2-11e9-aa72-0242c0a80002> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17ea> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3DE5B158960008000012>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f4d78-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6CF36B1B810008000173>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f26a4-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/mandaat/90c9f6d0-34d4-427e-ad1e-298193ebeae6>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819ef800-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/819ef756-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/person/ff3596bb-e814-4a46-83f3-2c03a7cd4e8c> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f17f8> <http://purl.org/dc/terms/relation> <http://example.com/mandaat/d4042972-6fee-4555-8c90-2c27270f42f8>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819f8662-dec2-11e9-aa72-0242c0a80002>,
+    <http://kanselarij.vo.data.gift/id/mandatarissen/819efd3c-dec2-11e9-aa72-0242c0a80002>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/819efcb0-dec2-11e9-aa72-0242c0a80002>,
+    <http://example.com/person/69b9715c-05f4-4ea6-b00f-bfb1da587ca2> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f181f> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6BCF6B1B810008000168>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9B6BBB6B1B810008000167> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f182c> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C616B1B81000800016E>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9B6C596B1B81000800016D> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1830> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C846B1B810008000170>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9B6C7D6B1B81000800016F> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1832> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6CCC6B1B810008000172>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9B6CC36B1B810008000171> .
+
+<http://themis.vlaanderen.be/id/persoon/5fe48fc5765a8c33389f1835> <http://purl.org/dc/terms/relation> <http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6D1A6B1B810008000175>;
+  <http://www.w3.org/2002/07/owl#sameAs> <http://kanselarij.vo.data.gift/id/personen/5D9B6D116B1B810008000174> .
+
+<http://example.com/mandaat/24733906-ca93-4eeb-9e1f-18b3592500dd> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/4be7d895-e5f1-4027-9032-c53e41f48d69> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/6eb5292d-37a1-454f-b87e-3bbfacb23970> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/90c9f6d0-34d4-427e-ad1e-298193ebeae6> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/9a70b95c-a1ba-40db-907c-c5395dfac60f> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/9cd9a969-0e8c-4f07-bacd-bd0c0b4cfc9c> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/d3b0f8f7-9806-45a9-9d04-c9676049ff0b> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/d4042972-6fee-4555-8c90-2c27270f42f8> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://example.com/mandaat/dc811a22-ccab-4dba-b305-fa1ca2981a0c> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9865CDB158960008000002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3D8EB158960008000011> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3DE5B158960008000012> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3E1BB158960008000013> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B3E45B158960008000014> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6BCF6B1B810008000168> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6BF16B1B810008000169> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C256B1B81000800016B> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C3F6B1B81000800016C> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C616B1B81000800016E> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6C846B1B810008000170> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6CCC6B1B810008000172> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6CF36B1B810008000173> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/5D9B6D1A6B1B810008000175> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819eb43a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819eb674-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819eba5c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819ebd0e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819ebee4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819ef800-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819efb0c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819efd3c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819eff44-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f24d8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f26a4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f30b8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f377a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f3a36-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f3b9e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f3e0a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f4634-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f4d78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f75d2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f7da2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/819f8662-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81a32fe2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81a42b9a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ae6b0a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81b92df6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3a0e2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3a5b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3a72c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3a8a8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3aa24-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3aba0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3b8fc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3bbcc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3cf54-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81c3e9f8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81cd5b0a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dcd4cc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dcd814-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dcda94-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dce19c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd04e2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd132e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd1b4e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd2332-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd2738-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd3cd2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd3ed0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd5154-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd5366-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd556e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd580c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd5a6e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd5d2a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd5fb4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd61c6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd6cde-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd79c2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd803e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dd8318-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddac8a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddb306-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddb52c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddb72a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddb8ec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddbc7a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddbf18-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddc1fc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddc3e6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddc652-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddc90e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddd908-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddee98-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ddfb90-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de0194-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de068a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de19d6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de4f78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de51da-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de5630-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81de9726-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81dea91e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ded0a6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81def572-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81df2948-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81df2eb6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e0184e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e02e10-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e05700-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e05fde-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e08a90-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e0ad5e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e0b75e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1b794-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1c36a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1c87e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1e4c6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1e7e6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1edb8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1f9d4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e1fccc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e20212-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e23b60-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e310e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e35554-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e3c82c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e43348-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4a6ca-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4b5f2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4b840-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4bc46-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4be76-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4c178-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4c420-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4c60a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4c8d0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4cccc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4d1a4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4d9a6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4dd66-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e4e1ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e50098-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e559a8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5625e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e58e78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5958a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5a3a4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5ad04-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5b240-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5ef26-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e5f3ae-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e6133e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81e68c74-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ec6ff4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ec75ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ec788c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecc3c8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecc698-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecca62-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecccd8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecd048-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecd2e6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecd4e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecd854-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecdcaa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecdfac-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ece772-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ecea2e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81eced1c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ed7318-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ed93ac-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ee6002-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ee7e66-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ee945a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81eea440-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ef30b8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ef368a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ef39aa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ef5066-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ef604c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f0fb78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1286e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f12ae4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f12e68-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f13444-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f136ce-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f13980-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f13e62-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f14254-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f14560-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f147b8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f14e48-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f15302-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f15780-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f17454-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1ad5c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1befa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1dcfa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1e1aa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1f082-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f1fd5c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f211a2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f21580-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f410ec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f41b64-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f41ed4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f4229e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f57270-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f575c2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f57914-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f57d38-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f5dc56-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f68174-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f6bee6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f6c2c4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f6c67a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f6cb16-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f7054a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f75aa4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f7a6a8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f7e6c2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81f90b9c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fa0bc8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fa1280-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fa1870-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fa9d7c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbdf20-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbe1e6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbe48e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbe7ea-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbebd2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbef10-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbf410-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fbfaaa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc093c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc18aa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc1c6a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc4cf8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc888a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fc91fe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fcafae-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fcef0a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fcfc2a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fdb1d8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fe28e8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fe2e88-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fe3284-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81feb7e0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81febd12-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81fef250-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ffa952-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ffb0aa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/81ffbdca-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8200a3d4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8202a7ce-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8202ab5c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8202c506-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8203413e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82038f2c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8203a5de-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82047ae0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82047f22-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82048bf2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82050226-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205074e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82050cc6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205305c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82053d90-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82054da8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82055bae-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82055f6e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82056b1c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82057242-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820579e0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205a654-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205ab72-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205af8c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205dbec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205ea4c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205efa6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205f23a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205f7e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205fa82-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8205fe2e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8206011c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820604dc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82060982-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82060c48-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82060f04-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82061292-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82061620-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82061b20-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82061e68-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820623c2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820626ba-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820629e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82062d0e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82063006-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82063538-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82063ee8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82064532-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82064ac8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820657e8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82065c0c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820671ec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820678cc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8206822c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82068d76-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8206ae50-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8206b4fe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8206dfb0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820754a4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820774a2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82079022-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82079a36-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8207c29a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8207e9dc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8207ee46-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820815f6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82081c18-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8209b564-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820c79c0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820c9f9a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cbd18-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cc0e2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cd5a0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cd8a2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cdbc2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cdf46-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ce252-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ce554-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ce8b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cec16-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cef04-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cf26a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cf5ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820cfd32-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d0610-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d1b6e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d253c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d287a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d3662-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d3a18-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d4b0c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820d7384-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820dbce0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820dcb36-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820e0af6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820e0e98-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820e5d26-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820e6d02-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820e9548-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ea010-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ea308-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820eae20-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ec1ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ec928-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ecd1a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ed5b2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ed8d2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820edbf2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820edfbc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ee2c8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ee62e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ee962-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820eece6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ef10a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ef65a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820ef9e8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820eff56-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f033e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f0668-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f0aaa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f1072-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f152c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f1946-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f2a9e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f2e04-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f3336-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f4f4c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f538e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f59f6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f6360-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f6a0e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f6e78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f816a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f8976-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/820f8e6c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82102322-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82103394-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82106b84-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210860a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82109730-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210a496-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210ab62-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210affe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210b3fa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210bbac-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210c28c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210cb88-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210d664-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8210fdec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82110a12-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8211120a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82111a20-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82112ad8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82113410-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82115918-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82115e2c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82117448-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82118f3c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82119982-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8211be26-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8211dc1c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8211f026-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8211fe2c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82120548-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821213e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82121d9e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82122988-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82124792-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82125c82-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82126132-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82127104-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8212758c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82127a28-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82128180-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82128676-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82128c66-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821294d6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8212ae12-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8212b326-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8212d0cc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8212d7f2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821318c0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82132edc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213372e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821347f0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82134d40-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821373b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82137d4c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82138846-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82138e54-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213a1aa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213a9f2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213afc4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213b532-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213ba64-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213c72a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213e05c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213ea20-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8213fa60-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821401a4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82141054-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214186a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821424f4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82142dfa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82143778-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82143d9a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82144790-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82145956-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82147d5a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821485de-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214a406-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214a8ac-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214ace4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214b554-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214b98c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214bd06-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214c0da-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214c468-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214c800-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214d08e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214db1a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8214efc4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82150b9e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82151710-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82152020-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82153010-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82153c72-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215410e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821558c4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82155e8c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82157138-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82157872-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82157d18-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215836c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215886c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82158ca4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215974e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82159d0c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215a1a8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215a892-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215b1ca-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215b8fa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215be90-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215cc5a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215d33a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215dc40-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215e0be-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215e492-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215e8ac-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215ee10-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215f1bc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215f626-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215fa68-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8215fe82-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8216027e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821606b6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82160bb6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82161192-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82161610-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82161ce6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821620d8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821629b6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82163474-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82163f78-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82165846-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821664f8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8216aa08-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8216b1d8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8217021e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82171150-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82175bec-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8217aa66-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8217ea58-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8217fdfe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218180c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82181fa0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821846d8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82185394-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821868ca-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82186d98-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821876e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82187bbc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82188152-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821885e4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821889e0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82188f1c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218946c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218b4b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218bdc0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218c874-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218cedc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8218f902-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8219226a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82194bfa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821955d2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821960ae-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82197ee0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82199416-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/82199a06-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8219b09a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8219d6ba-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/8219ddea-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a016c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a7250-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a78d6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a8042-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a8786-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a8dee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a944c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821a9b5e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821aa1ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821aa784-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821ac728-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821ad7b8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821af338-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821af964-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821b0d96-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821b3fc8-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821b625a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821b6912-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821bbc64-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821bce3e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821befc2-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c11a0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c18c6-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c214a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c26fe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c2fa0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c355e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c3afe-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c4166-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c471a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c4e54-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c54ee-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c5ad4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c674a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c6d44-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c732a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c79b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c7ffa-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821c87fc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821ca6b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821cb0b0-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821cb70e-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821cbde4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821cc460-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821cd45a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d2220-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d2900-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d3508-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d718a-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d7e00-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821d8d32-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821da9d4-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821dc1bc-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821dd918-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821dea84-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821df31c-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
+
+<http://kanselarij.vo.data.gift/id/mandatarissen/821dfd08-dec2-11e9-aa72-0242c0a80002> a <http://data.vlaanderen.be/ns/mandaat#Mandaat> .
