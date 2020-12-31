@@ -203,7 +203,11 @@ CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
 
   if (row["Reg of man"] == 'regering') 
     $startRegering = DateTime.strptime(row["SamenstellingVan"], "%m/%d/%Y")
-    $endRegering = DateTime.strptime(row["SamenstellingTot"], "%m/%d/%Y") if (row["SamenstellingTot"])
+    if (row["SamenstellingTot"])
+      $endRegering = DateTime.strptime(row["SamenstellingTot"], "%m/%d/%Y")
+    else
+      $endRegering = nil
+    end
 
     if (row["Naam"] != name)
       name = row["Naam"]
@@ -264,7 +268,7 @@ CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
     public_graph << RDF.Statement(mandataris, ORG.holds, mandaat_minister)
     public_graph << RDF.Statement(mandataris, MANDAAT.rangorde, row["rang"].to_i)
     public_graph << RDF.Statement(mandataris, MANDAAT.start, $startRegering)
-    public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering)
+    public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering) if $endRegering
     public_graph << RDF.Statement(mandataris, MANDAAT.isBestuurlijkeAliasVan, personen_uri_map[persoonId])
 
     public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.hadMember, mandataris)
@@ -306,7 +310,7 @@ CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
         public_graph << RDF.Statement(mandataris, ORG.holds, mandaat_viceminister_president)
         public_graph << RDF.Statement(mandataris, MANDAAT.rangorde, row["rang"].to_i)
         public_graph << RDF.Statement(mandataris, MANDAAT.start, $startRegering)
-        public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering)
+        public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering) if $endRegering
         public_graph << RDF.Statement(mandataris, MANDAAT.isBestuurlijkeAliasVan, personen_uri_map[persoonId])
     
         public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.hadMember, mandataris)
@@ -320,7 +324,7 @@ CSV.foreach(file_path, headers: true, encoding: "utf-8") do |row|
         public_graph << RDF.Statement(mandataris, ORG.holds, mandaat_minister_president)
         public_graph << RDF.Statement(mandataris, MANDAAT.rangorde, row["rang"].to_i)
         public_graph << RDF.Statement(mandataris, MANDAAT.start, $startRegering)
-        public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering)
+        public_graph << RDF.Statement(mandataris, MANDAAT.einde, $endRegering) if $endRegering
         public_graph << RDF.Statement(mandataris, MANDAAT.isBestuurlijkeAliasVan, personen_uri_map[persoonId])
     
         public_graph << RDF.Statement(bestuursorgaan_in_periode, PROV.hadMember, mandataris)
