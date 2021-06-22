@@ -1,0 +1,74 @@
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/17caac00-34a2-4b84-b400-30823555c15e> <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuurseenheid/60d0dc2ab1838d01fca7db64> .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/60d0dc2ab1838d01fca7db6d> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6d";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Van den Brande II";
+  <http://www.w3.org/ns/prov#qualifiedGeneration> <http://themis.vlaanderen.be/id/creatie/60d0dc2ab1838d01fca7db6b>;
+  <http://www.w3.org/ns/prov#qualifiedInvalidation> <http://themis.vlaanderen.be/id/opheffing/60d0dc2ab1838d01fca7db6c>;
+  <https://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/bestuursorgaan/5fed907ce6670526694a0499> .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/60d0dc2ab1838d01fca7db70> a <http://data.vlaanderen.be/ns/besluit#Bestuursorgaan>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db70";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Van den Brande III";
+  <http://www.w3.org/ns/prov#qualifiedGeneration> <http://themis.vlaanderen.be/id/creatie/60d0dc2ab1838d01fca7db6e>;
+  <http://www.w3.org/ns/prov#qualifiedInvalidation> <http://themis.vlaanderen.be/id/opheffing/60d0dc2ab1838d01fca7db6f>;
+  <https://data.vlaanderen.be/ns/generiek#isTijdspecialisatieVan> <http://themis.vlaanderen.be/id/bestuursorgaan/5fed907ce6670526694a0499> .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/7f2c82aa-75ac-40f8-a6c3-9fe539163025> <http://data.vlaanderen.be/ns/besluit#bestuurt> <http://themis.vlaanderen.be/id/bestuurseenheid/60d0dc2ab1838d01fca7db64> .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db65> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db65";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Voorzitter" .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db66> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db66";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vice-voorzitter" .
+
+<http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db67> a <http://www.w3.org/ns/org#Role>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db67";
+  <http://www.w3.org/2004/02/skos/core#inScheme> <http://data.vlaanderen.be/id/conceptscheme/BestuursfunctieCode>;
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeenschapsminister" .
+
+<http://themis.vlaanderen.be/id/concept/bestuurseenheid-classificatie/60d0dc2ab1838d01fca7db63> a <http://www.w3.org/2004/02/skos/core#Concept>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db63";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Gemeenschap" .
+
+<http://themis.vlaanderen.be/id/creatie/60d0dc2ab1838d01fca7db6b> a <http://www.w3.org/ns/prov#Generation>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6b";
+  <http://www.w3.org/ns/prov#atTime> "1992-01-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://themis.vlaanderen.be/id/creatie/60d0dc2ab1838d01fca7db6e> a <http://www.w3.org/ns/prov#Generation>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6e";
+  <http://www.w3.org/ns/prov#atTime> "1992-10-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db68> a <http://data.vlaanderen.be/ns/mandaat#Mandaat>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db68";
+  <http://www.w3.org/ns/org#role> <http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db65> .
+
+<http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db69> a <http://data.vlaanderen.be/ns/mandaat#Mandaat>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db69";
+  <http://www.w3.org/ns/org#role> <http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db66> .
+
+<http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db6a> a <http://data.vlaanderen.be/ns/mandaat#Mandaat>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6a";
+  <http://www.w3.org/ns/org#role> <http://themis.vlaanderen.be/id/bestuursfunctie/60d0dc2ab1838d01fca7db67> .
+
+<http://themis.vlaanderen.be/id/opheffing/60d0dc2ab1838d01fca7db6c> a <http://www.w3.org/ns/prov#Invalidation>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6c";
+  <http://www.w3.org/ns/prov#atTime> "1992-10-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://themis.vlaanderen.be/id/opheffing/60d0dc2ab1838d01fca7db6f> a <http://www.w3.org/ns/prov#Invalidation>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db6f";
+  <http://www.w3.org/ns/prov#atTime> "1995-06-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+
+<http://themis.vlaanderen.be/id/bestuurseenheid/60d0dc2ab1838d01fca7db64> a <http://data.vlaanderen.be/ns/besluit#Bestuurseenheid>;
+  <http://mu.semte.ch/vocabularies/core/uuid> "60d0dc2ab1838d01fca7db64";
+  <http://www.w3.org/2004/02/skos/core#prefLabel> "Vlaamse Gemeenschap";
+  <http://www.w3.org/ns/org#classification> <http://themis.vlaanderen.be/id/concept/bestuurseenheid-classificatie/60d0dc2ab1838d01fca7db63> .
+
+<http://themis.vlaanderen.be/id/bestuursorgaan/5fed907ce6670526694a0499> <http://www.w3.org/ns/org#hasPost> <http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db6a>,
+    <http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db69>,
+    <http://themis.vlaanderen.be/id/mandaat/60d0dc2ab1838d01fca7db68> .
